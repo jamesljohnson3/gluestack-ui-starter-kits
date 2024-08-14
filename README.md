@@ -1,5 +1,5 @@
 # gluestack-ui Starter Kit
-
+ 
 Welcome to the gluestack-ui Starter Kit! This project is designed to help you kickstart your application development with React and React Native. It supports both Next.js and Expo, providing a flexible and modular architecture.
 
 ## Getting Started
